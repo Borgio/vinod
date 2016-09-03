@@ -1,0 +1,6 @@
+1)How do u find the Circles in a graph. Write the algorithm on the board..
+2)Implement a Queue using Stacks
+3)Reverse a linked list in a optimized algorithm  
+4)Google maps, bus route implementation algorithm. Given a source and destination you need to come up with the route and bus numbers you need to take(traveller may need to change multiple buses and wait for some period)  
+5)Theater booking system. Need a program which will book the no.of tickets if they are adjacent in a theater. What data structure you will use to store the theater seats, and how will verify if the seat is booked or not. etc..  
+6)Write a program to print Facebook friends tree up to 10 levels...  

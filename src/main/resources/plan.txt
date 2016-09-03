@@ -1,0 +1,48 @@
+core java concepts & coding interview book - 19/07/2016
+Design: OOPS
+	Overloading vs. Overriding.
+	Encapsulation and inheritance.
+	inheritance and polymorphism
+	HLD (Component wise segregation)
+	LLD (Class & sequence diagram)
+	Design patterns. Design tool if you’ve worked on any.
+	
+Algorithms - 19/07/2016
+	Sorting, Merging, Searching algorithms techniques.
+
+Data Structures
+	Arrays, Linked Lists, Hash Map, Hash Table, B Tree, BFS, DFS, B+ Tree, AVL Tree, BST, Graph, Sets etc..
+	maximum number of nodes at a level of binary trees.
+
+Databases
+	
+
+Distributed Computing
+	understanding of a few basic distributed computing concepts.
+	SOA(service oriented architectures), map-reduce, distributed caching, load balancing, etc.
+
+Operating Systems
+	OStopics that can affect code performance, such as: memory management, processes, threads, synchronization, paging, and 
+	multi-threading.
+	
+Internet Topics
+	basics of how the internet works
+	how browsers work at a high level, from DNS lookups and TCP/IP, to socket connections.
+	
+	
+
+	
+Links
+-----
+http://www.glassdoor.com/Interview/Amazon-com-Software-Development-Engineer-II-Interview-Questions-EI_IE6036.0,10_KO11,43.htm
+
+http://www.careercup.com/page?pid=amazon-interview-questions&job=sde-2-interview-questions
+
+http://www.saurabhschool.org/index.php/data-structures
+
+www.geeksforgeeks.org/
+
+http://www.glassdoor.com/Interview/Amazon-com-Interview-Questions-E6036.htm
+
+http://www.careercup.com/page?pid=amazon-interview-questions
+
